@@ -1,0 +1,31 @@
+/**/
+#circulo{
+  border-radius: 100%;
+  background-color: greenyellow;
+  width: 100px;
+  height: 100px;
+}
+#cinza{
+  border-radius: 100%;
+  background-color: lightgray;
+  width: 100px;
+  height: 100px;
+}
+#verde{
+  border-radius: 100%;
+  background-color: lightpink;;
+  width: 100px;
+  height: 100px;
+}
+body{
+  background-color:#f28877;
+}
+.btn-primary{
+  background-color:#A64E41;
+  border-color: #A64E41;
+}
+#icon{
+  width:100px;
+  height: 100px;
+  margin-left:130px;
+}
